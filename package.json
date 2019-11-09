@@ -1,7 +1,6 @@
 {
   "name": "test5",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node src/app.js"
@@ -15,5 +14,14 @@
   },
   "devDependencies": {
     "request": "^2.88.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tunaisgoodforyou/weather.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tunaisgoodforyou/weather/issues"
+  },
+  "homepage": "https://github.com/tunaisgoodforyou/weather#readme",
+  "description": ""
 }
